@@ -2,7 +2,7 @@
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_multi_currency'
-  s.version     = '2.2.0'
+  s.version     = '2.3.0'
   s.summary     = 'Spree Commerce Extension - Provide currency customization'
   s.description = 'http://www.spreecommerce.com'
   s.required_ruby_version = '>= 1.8.7'
